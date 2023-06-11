@@ -27,7 +27,7 @@ Make sure to replace `[configuration file]` with the path to your desired config
 
 **Authors:**
 - AYOUB AITBELHAJ ([@aaitbelh](https://github.com/aaitbelh))
-- Mohamed Amellal ([@1amred](https://github.com/1amred))
+- Mohamed Amellal ([@Mohamed-Amellal](https://github.com/Mohamed-Amellal))
 - ABDELAZIZ ELHAYYANY ([@elhayyany](https://github.com/elhayyany))
 
 **License:**
